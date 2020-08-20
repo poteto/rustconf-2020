@@ -41,6 +41,14 @@ Hosted by [Nell Shamrell-Harrington](https://twitter.com/nellshamrell).
   - [color-eyre - Custom hooks for colorful human oriented error reports via panics and the eyre crate](https://github.com/yaahc/color-eyre)
   - [The #[must_use] attribute](https://doc.rust-lang.org/reference/attributes/diagnostics.html#the-must_use-attribute)
   - [The Error trait](https://doc.rust-lang.org/std/error/trait.Error.html)
+  - [thiserror - derive(Error) for struct and enum error types](https://github.com/dtolnay/thiserror)
+  - [displaydoc - A derive macro for implementing the display Trait via a doc comment and string interpolation](https://github.com/yaahc/displaydoc)
+  - [snafu - Easily assign underlying errors into domain-specific errors while adding context](https://github.com/shepmaster/snafu)
+  - [anyhow - Flexible concrete Error type built on std::error::Error](https://github.com/dtolnay/anyhow)
+  - [The #[non_exhaustive] attribute](https://doc.rust-lang.org/reference/attributes/type_system.html#the-non_exhaustive-attribute)
+  - [fehler - a library to add support for "throwing functions" to Rust through procedural macros](https://github.com/withoutboats/fehler)
+  - [tracing-error - Application level tracing for Rust](https://github.com/tokio-rs/tracing)
+  - [extracterr - Helpers for bundling context with errors and later extracting said context thru dyn Error trait objects](https://github.com/yaahc/extracterr)
 - Links from the community
 
 ### How to Start a Solo Project that You’ll Stick With - [Harry Bachrach](https://twitter.com/HarryB)
