@@ -89,7 +89,16 @@ Hosted by [Nell Shamrell-Harrington](https://twitter.com/nellshamrell).
 
 - Video
 - Slides
+- [Captions](https://thisten.co/fcmuf/BW3KCipKHk0JdkOaaqyBc06kX8xQmA5kwtcESCFE)
 - Links from the speaker
+  - [Rust Official Discord Server](https://discord.com/invite/rust-lang)
+  - [turbo.fish](https://turbo.fish/)
+  - [Learning Curves (for different programming languages)](https://github.com/dobiasd/articles/blob/master/programming_language_learning_curves.md)
+  - [Compiler Error Messages Considered Unhelpful: The Landscape of Text-Based Programming Error Message Research](https://web.eecs.umich.edu/~akamil/papers/iticse19.pdf)
+  - [Rust RFC: Type Ascription](https://rust-lang.github.io/rfcs/0803-type-ascription.html)
+  - [Mind your language: On novices'interactions with error messages](https://www.researchgate.net/publication/254004572_Mind_your_language_On_novices'interactions_with_error_messages)
+  - [rustc --explain (official CLI docs)](https://doc.rust-lang.org/rustc/command-line-arguments.html#--explain-provide-a-detailed-explanation-of-an-error-message)
+  - [rustc --explain (Learning Rust)](https://learning-rust.github.io/docs/e1.smart_compiler.html#Explain-Error-Codes)
 - Links from the community
 
 ### My First Rust Project: Creating a Roguelike with Amethyst - [Micah Tigley](https://twitter.com/micah_tigley)
