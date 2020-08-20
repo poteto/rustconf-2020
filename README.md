@@ -125,3 +125,6 @@ Hosted by [Nell Shamrell-Harrington](https://twitter.com/nellshamrell).
 - Slides
 - Links from the speaker
 - Links from the community
+
+## Other Links
+- [This Week in Rust - Handpicked Rust updates, delivered to your inbox](https://github.com/emberian/this-week-in-rust)
