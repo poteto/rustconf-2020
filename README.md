@@ -4,9 +4,9 @@ An aggregation of links that summarize [RustConf 2020](https://rustconf.com/). P
 
 ## Talks
 
-Hosted by Nell Shamrell-Harrington.
+Hosted by [Nell Shamrell-Harrington](https://twitter.com/nellshamrell).
 
-### Opening Keynote - Niko Matsakis, Mark Rousskov, Aidan Hobson Sayers, Ashley Williams, Nick Cameron
+### Opening Keynote - [Niko Matsakis](https://twitter.com/nikomatsakis), [Mark Rousskov](https://github.com/Mark-Simulacrum), [Aidan Hobson Sayers](https://twitter.com/aidanhs), [Ashley Williams](https://twitter.com/ag_dubs), [Nick Cameron](https://twitter.com/nick_r_cameron)
 
 - Video
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSA_hS_o_sOgosYSbT5MnasFBSYxTLCJWjjTX8lqoKm5P8AqAp9wSIa9uYzfd60yFrm1DCjU_dI3AxC/pub)
@@ -24,63 +24,63 @@ Hosted by Nell Shamrell-Harrington.
   - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September)
 - Links from the community
 
-### Error Handling Isn't All About Errors - Jane Lusby
+### Error Handling Isn't All About Errors - [Jane Lusby](https://twitter.com/yaahc_)
 
 - Video
 - Slides
 - Links from the speaker
 - Links from the community
 
-### How to Start a Solo Project that You’ll Stick With - Harry Bachrach
+### How to Start a Solo Project that You’ll Stick With - [Harry Bachrach](https://twitter.com/HarryB)
 
 - Video
 - Slides
 - Links from the speaker
 - Links from the community
 
-### Under a Microscope: Exploring Fast and Safe Rust for Biology - Samuel Lim
+### Under a Microscope: Exploring Fast and Safe Rust for Biology - [Samuel Lim](https://twitter.com/amadeusine)
 
 - Video
 - Slides
 - Links from the speaker
 - Links from the community
 
-### Bending the Curve: A Personal Tutor at Your Fingertips - Esteban Kuber
+### Bending the Curve: A Personal Tutor at Your Fingertips - [Esteban Kuber](https://twitter.com/ekuber)
 
 - Video
 - Slides
 - Links from the speaker
 - Links from the community
 
-### My First Rust Project: Creating a Roguelike with Amethyst - Micah Tigley
+### My First Rust Project: Creating a Roguelike with Amethyst - [Micah Tigley](https://twitter.com/micah_tigley)
 
 - Video
 - Slides
 - Links from the speaker
 - Links from the community
 
-### Controlling Telescope Hardware with Rust - Ashley Hauck
+### Controlling Telescope Hardware with Rust - [Ashley Hauck](https://twitter.com/khyperia)
 
 - Video
 - Slides
 - Links from the speaker
 - Links from the community
 
-### Macros for a More Productive Rust - jam1garner
+### Macros for a More Productive Rust - [jam1garner](https://twitter.com/jam1garner)
 
 - Video
 - Slides
 - Links from the speaker
 - Links from the community
 
-### Rust for Non-Systems Programmers - Rebecca Turner
+### Rust for Non-Systems Programmers - [Rebecca Turner](https://twitter.com/16kbps)
 
 - Video
 - Slides
 - Links from the speaker
 - Links from the community
 
-### Closing Keynote - Siân Griffin
+### Closing Keynote - [Siân Griffin](https://twitter.com/sgrif)
 
 - Video
 - Slides
