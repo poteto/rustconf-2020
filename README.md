@@ -54,8 +54,14 @@ Hosted by [Nell Shamrell-Harrington](https://twitter.com/nellshamrell).
 ### How to Start a Solo Project that You’ll Stick With - [Harry Bachrach](https://twitter.com/HarryB)
 
 - Video
-- Slides
+- [Slides](https://harrisonbachrach.com/rustconf2020)
+- [Captions](https://thisten.co/f3fs5/jhdkfx77OEb3AF4AXAv7miAq3rVjhJtp1vcRBJ2y)
 - Links from the speaker
+  - [ruut - Make easy-to-type folder and easy-to-get structures easy to read; think `tree` for data](https://github.com/HarrisonB/ruut)
+  - [New Year's Resolution Experiment](http://www.richardwiseman.com/quirkology/new/USA/Experiment_resolution.shtml)
+  - [Promoting habit formation](https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.603640)
+  - [Action plans and coping plans for physical exercise: A longitudinal intervention study in cardiac rehabilitation](https://pdfs.semanticscholar.org/8df0/bb429602dab29c54f42611dafa28c9d87a83.pdf)
+  - [SMART goals](https://www.projectsmart.co.uk/brief-history-of-smart-goals.php)
 - Links from the community
 
 ### Under a Microscope: Exploring Fast and Safe Rust for Biology - [Samuel Lim](https://twitter.com/amadeusine)
