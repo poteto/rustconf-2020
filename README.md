@@ -104,9 +104,17 @@ Hosted by [Nell Shamrell-Harrington](https://twitter.com/nellshamrell).
 ### My First Rust Project: Creating a Roguelike with Amethyst - [Micah Tigley](https://twitter.com/micah_tigley)
 
 - Video
-- Slides
+- [Slides](https://drive.google.com/file/d/1dhcT-x3viUYc_IVbOcP-IH4Xeq_FTdfj/view)
+- [Captions](https://thisten.co/k3ljw/l9WBLRVClwEwSP4FNzQTwqmNeAo9sYjvroDVycUc)
 - Links from the speaker
+  - [The Rust Programming Language Book](https://doc.rust-lang.org/book/)
+  - [DragonRuby GTK](https://dragonruby.itch.io/dragonruby-gtk)
+  - [arewegameyet.rs - Game Development in Rust](https://arewegameyet.rs/)
+  - [amethyst - Data-driven game engine written in Rust](https://amethyst.rs/)
+  - [dungeontileset-ii - a downloadable tileset](https://0x72.itch.io/dungeontileset-ii)
+  - [Creating a Simple Spritesheet Animation with Amethyst](https://mtigley.dev/posts/sprite-animations-with-amethyst/)
 - Links from the community
+  - [Bevy - a refreshingly simple data-driven game engine built in Rust](https://github.com/bevyengine/bevy)
 
 ### Controlling Telescope Hardware with Rust - [Ashley Hauck](https://twitter.com/khyperia)
 
