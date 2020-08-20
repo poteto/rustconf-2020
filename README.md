@@ -115,6 +115,7 @@ Hosted by [Nell Shamrell-Harrington](https://twitter.com/nellshamrell).
   - [specs::DenseVecStorage](https://docs.rs/specs/0.16.1/specs/struct.DenseVecStorage.html)
   - [dungeontileset-ii - a downloadable tileset](https://0x72.itch.io/dungeontileset-ii)
   - [Creating a Simple Spritesheet Animation with Amethyst](https://mtigley.dev/posts/sprite-animations-with-amethyst/)
+  - [image-rs - Encoding and decoding images in Rust](https://github.com/image-rs/image)
 - Links from the community
   - [Bevy - a refreshingly simple data-driven game engine built in Rust](https://github.com/bevyengine/bevy)
   - [Amethyst & Bevy: Addressing the elephant in the room](https://community.amethyst.rs/t/bevy-engine-addressing-the-elephant-in-the-room/1645?u=erlend_sh)
