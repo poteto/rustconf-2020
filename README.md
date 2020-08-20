@@ -175,7 +175,8 @@ Hosted by [Nell Shamrell-Harrington](https://twitter.com/nellshamrell).
 ### Closing Keynote - [Siân Griffin](https://twitter.com/sgrif)
 
 - Video
-- Slides
+- [Slides](https://www.slideshare.net/SeanGriffin54/learning-empathy-from-pokemon-blue)
+- [Captions](https://thisten.co/8uyul/RFv2T2YEll5g2fMmRrbWNi7dX7o7vew8QQEvUHNh)
 - Links from the speaker
 - Links from the community
 
