@@ -88,7 +88,7 @@ Hosted by [Nell Shamrell-Harrington](https://twitter.com/nellshamrell).
 ### Bending the Curve: A Personal Tutor at Your Fingertips - [Esteban Kuber](https://twitter.com/ekuber)
 
 - Video
-- Slides
+- [Slides](https://docs.google.com/presentation/d/1htb-eKM9DewL2RWSWuQ7trlz9ANMz7FKxWbMUtokuPQ/edit)
 - [Captions](https://thisten.co/fcmuf/BW3KCipKHk0JdkOaaqyBc06kX8xQmA5kwtcESCFE)
 - Links from the speaker
   - [Rust Official Discord Server](https://discord.com/invite/rust-lang)
