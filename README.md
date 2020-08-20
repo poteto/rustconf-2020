@@ -11,7 +11,11 @@ Hosted by Nell Shamrell-Harrington.
 - Video
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSA_hS_o_sOgosYSbT5MnasFBSYxTLCJWjjTX8lqoKm5P8AqAp9wSIa9uYzfd60yFrm1DCjU_dI3AxC/pub)
 - [Captions](https://thisten.co/pfztb/lYo8glHi1hrTchpZltj5s2eyiJfpHMw0kWMazmAw)
-- Links from the speaker
+- Links from the speakers
+  - [Play tag with ferris](https://aaronerhardt.gitlab.io/crab-tag)
+  - [Firefox's codebase language stats](https://www.openhub.net/p/firefox/analyses/latest/languages_summary)
+  - [GoGaRuCo 2014- Let’s Talk About Rust by Yehuda Katz](https://www.youtube.com/watch?v=ySW6Yk_DerY)
+  - [Learning systems programming with Rust by Julia Evans](https://jvns.ca/blog/2016/09/11/rustconf-keynote/)
 - Links from the community
 
 ### Error Handling Isn't All About Errors - Jane Lusby
