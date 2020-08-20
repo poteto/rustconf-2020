@@ -139,9 +139,21 @@ Hosted by [Nell Shamrell-Harrington](https://twitter.com/nellshamrell).
 ### Macros for a More Productive Rust - [jam1garner](https://twitter.com/jam1garner)
 
 - Video
-- Slides
+- [Slides](https://slides.com/jam1garner/rustconf-2020-macros)
+- [Captions](https://thisten.co/ezkm3/yyQTXUF7cgexlEjgtbIXoflU3zG6pPNEClYeoPWS)
 - Links from the speaker
+  - [cargo-expand - Subcommand to show result of macro expansion](https://github.com/dtolnay/cargo-expand)
+  - [The Little Book of Rust Macros - Daniel Keep](https://danielkeep.github.io/tlborm/book/)
+  - [paste - Macros for all your token pasting needs](https://github.com/dtolnay/paste)
+  - [syn - Parser for Rust source code](https://github.com/dtolnay/syn)
+  - [quote - Rust quasi-quoting](https://github.com/dtolnay/quote)
+  - [darling - a Rust proc-macro attribute parser](https://github.com/TedDriggs/darling)
+  - [treeflection - a Rust library that provides pseudo-reflection for structs and enums](https://github.com/rukai/treeflection)
+  - [inline-python - inline Python code directly in your Rust code](https://github.com/fusion-engineering/inline-python)
+  - [swsh_randomizer - Experimental randomizer plugin for Pokemon Sword/Shield](https://github.com/Raytwo/swsh_randomizer)
+  - [cpp-inherit - A macro for inheriting Rust structures from C++ classes. Nothing valued is here](https://github.com/jam1garner/cpp-inherit)
 - Links from the community
+  - [absolution - "Freedom from syn": Proc macro tools for operating on token trees](https://github.com/Manishearth/absolution)
 
 ### Rust for Non-Systems Programmers - [Rebecca Turner](https://twitter.com/16kbps)
 
