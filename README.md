@@ -1,6 +1,6 @@
 # RustConf 2020 Summary
 
-An aggregation of links that summarize RustConf 2020. Pull requests welcome!
+An aggregation of links that summarize [RustConf 2020](https://rustconf.com/). Pull requests welcome!
 
 ## Talks
 
@@ -16,6 +16,12 @@ Hosted by Nell Shamrell-Harrington.
   - [Firefox's codebase language stats](https://www.openhub.net/p/firefox/analyses/latest/languages_summary)
   - [GoGaRuCo 2014- Let’s Talk About Rust by Yehuda Katz](https://www.youtube.com/watch?v=ySW6Yk_DerY)
   - [Learning systems programming with Rust by Julia Evans](https://jvns.ca/blog/2016/09/11/rustconf-keynote/)
+  - [Shape of errors to come by Jonathan Turner](https://blog.rust-lang.org/2016/08/10/Shape-of-errors-to-come.html)
+  - [Rust's Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct)
+  - ["Where is the rust community allowed to talk about changes" thread on Reddit](https://www.reddit.com/r/rust/comments/hnfnti/where_is_the_rust_community_allowed_to_talk_about/)
+  - [rustc Dev Guide](https://rustc-dev-guide.rust-lang.org/)
+  - [Rust RFCs](https://github.com/rust-lang/rfcs)
+  - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September)
 - Links from the community
 
 ### Error Handling Isn't All About Errors - Jane Lusby
