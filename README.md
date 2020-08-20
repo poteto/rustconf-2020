@@ -22,6 +22,11 @@ Hosted by [Nell Shamrell-Harrington](https://twitter.com/nellshamrell).
   - [rustc Dev Guide](https://rustc-dev-guide.rust-lang.org/)
   - [Rust RFCs](https://github.com/rust-lang/rfcs)
   - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September)
+  - [Why the developers who use Rust love it so much](https://stackoverflow.blog/2020/06/05/why-the-developers-who-use-rust-love-it-so-much/)
+  - [Rust RFC: Edition 2021 and beyond](https://github.com/rust-lang/rfcs/pull/2966)
+  - [Opening up the Core Team agenda](https://blog.rust-lang.org/inside-rust/2020/07/27/opening-up-the-core-team-agenda.html)
+  - [Rust RFC: rust-analyzer as our official LSP](https://github.com/rust-lang/rfcs/pull/2912)
+  - [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/)
 - Links from the community
 
 ### Error Handling Isn't All About Errors - [Jane Lusby](https://twitter.com/yaahc_)
