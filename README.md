@@ -83,6 +83,7 @@ Hosted by [Nell Shamrell-Harrington](https://twitter.com/nellshamrell).
   - [needletail - a MIT-licensed, minimal-copying FASTA/FASTQ parser and k-mer processing library for Rust](https://github.com/onecodex/needletail)
   - [rayon - a data-parallelism library for Rust](https://github.com/rayon-rs/rayon)
 - Links from the community
+  - [uniffi-rs - a multi-language bindings generator for rust](https://github.com/mozilla/uniffi-rs)
 
 ### Bending the Curve: A Personal Tutor at Your Fingertips - [Esteban Kuber](https://twitter.com/ekuber)
 
