@@ -158,9 +158,19 @@ Hosted by [Nell Shamrell-Harrington](https://twitter.com/nellshamrell).
 ### Rust for Non-Systems Programmers - [Rebecca Turner](https://twitter.com/16kbps)
 
 - Video
-- Slides
+- [Slides](https://becca.ooo/rustconf/2020/)
+- [Code](https://github.com/9999years/rustconf-2020-code)
 - Links from the speaker
+  - [Working memory](https://en.wikipedia.org/wiki/Working_memory)
+  - [rustdoc](https://doc.rust-lang.org/rustdoc/what-is-rustdoc.html)
+  - [mdBook](https://rust-lang.github.io/mdBook/)
+  - [structopt - Parse command line arguments by defining a struct](https://github.com/TeXitoi/structopt)
+  - [eyre - A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications](https://github.com/yaahc/eyre)
+  - [reqwest - An easy and powerful Rust HTTP Client](https://github.com/seanmonstar/reqwest)
+  - [serde-json - Strongly typed JSON library for Rust](https://github.com/serde-rs/json)
+  - [PragmataPro - Rebecca's font for code in her talk](https://fsd.it/shop/fonts/pragmatapro/)
 - Links from the community
+  - [Iosevka - an open-source, sans-serif + slab-serif, monospace + quasi‑proportional typeface family](https://typeof.net/Iosevka/)
 
 ### Closing Keynote - [Siân Griffin](https://twitter.com/sgrif)
 
