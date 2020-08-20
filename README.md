@@ -67,8 +67,21 @@ Hosted by [Nell Shamrell-Harrington](https://twitter.com/nellshamrell).
 ### Under a Microscope: Exploring Fast and Safe Rust for Biology - [Samuel Lim](https://twitter.com/amadeusine)
 
 - Video
-- Slides
+- [Slides](https://www.dropbox.com/s/p204v7apts5pwwd/RustConf_Backup.pdf)
+- [Captions](https://thisten.co/skwit/wxzFfc1eh60qtrV2cCPtUKFosgePrTq8xpx3ahD9)
 - Links from the speaker
+  - [RNA-Seq](https://en.wikipedia.org/wiki/RNA-Seq)
+  - [pico-args - An ultra simple CLI arguments parser](https://github.com/RazrFalcon/pico-args)
+  - [structopt - Parse command line arguments by defining a struct](https://github.com/TeXitoi/structopt)
+  - [nom - Rust parser combinator framework](https://github.com/Geal/nom)
+  - [logos - Create ridiculously fast Lexers](https://github.com/maciejhirsz/logos)
+  - [pest - a general purpose parser written in Rust with a focus on accessibility, correctness, and performance](https://github.com/pest-parser/pest)
+  - [FASTQ Format - a text-based format for storing both a biological sequence (usually nucleotide sequence) and its corresponding quality scores](https://en.wikipedia.org/wiki/FASTQ_format)
+  - [Gene Transfer Format](https://en.wikipedia.org/wiki/Gene_transfer_format)
+  - [Browser Extensible Data Format](https://en.wikipedia.org/wiki/BED_(file_format))
+  - [Sequence Alignment Map Format](https://en.wikipedia.org/wiki/SAM_(file_format))
+  - [needletail - a MIT-licensed, minimal-copying FASTA/FASTQ parser and k-mer processing library for Rust](https://github.com/onecodex/needletail)
+  - [rayon - a data-parallelism library for Rust](https://github.com/rayon-rs/rayon)
 - Links from the community
 
 ### Bending the Curve: A Personal Tutor at Your Fingertips - [Esteban Kuber](https://twitter.com/ekuber)
