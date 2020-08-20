@@ -14,7 +14,7 @@ Hosted by [Nell Shamrell-Harrington](https://twitter.com/nellshamrell).
 - Links from the speakers
   - [Play tag with ferris](https://aaronerhardt.gitlab.io/crab-tag)
   - [Firefox's codebase language stats](https://www.openhub.net/p/firefox/analyses/latest/languages_summary)
-  - [GoGaRuCo 2014- Let’s Talk About Rust by Yehuda Katz](https://www.youtube.com/watch?v=ySW6Yk_DerY)
+  - [GoGaRuCo 2014 - Let’s Talk About Rust by Yehuda Katz](https://www.youtube.com/watch?v=ySW6Yk_DerY)
   - [Learning systems programming with Rust by Julia Evans](https://jvns.ca/blog/2016/09/11/rustconf-keynote/)
   - [Shape of errors to come by Jonathan Turner](https://blog.rust-lang.org/2016/08/10/Shape-of-errors-to-come.html)
   - [Rust's Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct)
@@ -28,12 +28,19 @@ Hosted by [Nell Shamrell-Harrington](https://twitter.com/nellshamrell).
   - [Rust RFC: rust-analyzer as our official LSP](https://github.com/rust-lang/rfcs/pull/2912)
   - [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/)
 - Links from the community
+  - [Laying the foundation for Rust's future](https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html)
 
 ### Error Handling Isn't All About Errors - [Jane Lusby](https://twitter.com/yaahc_)
 
 - Video
-- Slides
+- [Slides](https://yaah.dev/rustconf)
+- [Captions](https://thisten.co/fgdpl/gpqltlf8162UY6HqVAWocYl9dKvYPqKE8IaerYHs)
 - Links from the speaker
+  - [Awesome Rust Mentors](https://github.com/RustBeginners/awesome-rust-mentors)
+  - [eyre - A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications](https://github.com/yaahc/eyre)
+  - [color-eyre - Custom hooks for colorful human oriented error reports via panics and the eyre crate](https://github.com/yaahc/color-eyre)
+  - [The #[must_use] attribute](https://doc.rust-lang.org/reference/attributes/diagnostics.html#the-must_use-attribute)
+  - [The Error trait](https://doc.rust-lang.org/std/error/trait.Error.html)
 - Links from the community
 
 ### How to Start a Solo Project that You’ll Stick With - [Harry Bachrach](https://twitter.com/HarryB)
