@@ -112,10 +112,12 @@ Hosted by [Nell Shamrell-Harrington](https://twitter.com/nellshamrell).
   - [arewegameyet.rs - Game Development in Rust](https://arewegameyet.rs/)
   - [amethyst - Data-driven game engine written in Rust](https://amethyst.rs/)
   - [What is ECS?](https://en.wikipedia.org/wiki/Entity_component_system)
+  - [specs::DenseVecStorage](https://docs.rs/specs/0.16.1/specs/struct.DenseVecStorage.html)
   - [dungeontileset-ii - a downloadable tileset](https://0x72.itch.io/dungeontileset-ii)
   - [Creating a Simple Spritesheet Animation with Amethyst](https://mtigley.dev/posts/sprite-animations-with-amethyst/)
 - Links from the community
   - [Bevy - a refreshingly simple data-driven game engine built in Rust](https://github.com/bevyengine/bevy)
+  - [Amethyst & Bevy: Addressing the elephant in the room](https://community.amethyst.rs/t/bevy-engine-addressing-the-elephant-in-the-room/1645?u=erlend_sh)
 
 ### Controlling Telescope Hardware with Rust - [Ashley Hauck](https://twitter.com/khyperia)
 
