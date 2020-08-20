@@ -111,6 +111,7 @@ Hosted by [Nell Shamrell-Harrington](https://twitter.com/nellshamrell).
   - [DragonRuby GTK](https://dragonruby.itch.io/dragonruby-gtk)
   - [arewegameyet.rs - Game Development in Rust](https://arewegameyet.rs/)
   - [amethyst - Data-driven game engine written in Rust](https://amethyst.rs/)
+  - [What is ECS?](https://en.wikipedia.org/wiki/Entity_component_system)
   - [dungeontileset-ii - a downloadable tileset](https://0x72.itch.io/dungeontileset-ii)
   - [Creating a Simple Spritesheet Animation with Amethyst](https://mtigley.dev/posts/sprite-animations-with-amethyst/)
 - Links from the community
