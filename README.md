@@ -129,7 +129,7 @@ Hosted by [Nell Shamrell-Harrington](https://twitter.com/nellshamrell).
 - [Slides](https://docs.google.com/presentation/d/1RfS0yXjmn_IQPq56vbyBTBikgsgjprOB9lbOF-sneZU/edit?usp=sharing)
 - [Captions](https://thisten.co/bxtku/UrDctSRyk95tWI8VqUAxJ9x0WcZiNy7lwCDw9VDG)
 - Links from the speaker
-  - [Ashley's space pics](khyperia.com/space.html)
+  - [Ashley's space pics](https://khyperia.com/space.html)
   - [serialport - A cross-platform serial port library in Rust](https://gitlab.com/susurrus/serialport-rs)
   - [rust-bindgen - Automatically generates Rust FFI bindings to C (and some C++) libraries](https://github.com/rust-lang/rust-bindgen)
   - [std::sync::mpsc - Multi-producer, single-consumer FIFO queue communication primitives](https://doc.rust-lang.org/std/sync/mpsc/)
